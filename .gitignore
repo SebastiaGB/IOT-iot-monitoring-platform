@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+__pycache__/
+*.pyc
+target/
+.idea/
+.vscode/
+*.pdf
+
+
